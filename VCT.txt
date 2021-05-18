@@ -1,0 +1,9 @@
+Distributed Version Control Tool
+
+WORKING DIRECTORY         STAGING AREA         LOCAL REPOSITORY                              REMOTE REPOSITORY
+             ------------->
+             1.Git Add            
+                              ----------------->Make changes---------------------------------->3.Git push
+                              2.Git commit                                                      Add changes
+                                               4.Git pull<------------------------------------
+                                               
